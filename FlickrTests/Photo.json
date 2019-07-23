@@ -1,0 +1,537 @@
+{
+    "photo": {
+        "id": "48342263806",
+        "secret": "04b37b8457",
+        "server": "65535",
+        "farm": 66,
+        "dateuploaded": "1563753623",
+        "isfavorite": 0,
+        "license": "0",
+        "safety_level": "0",
+        "rotation": 0,
+        "owner": {
+            "nsid": "49191827@N00",
+            "username": "eyetwist",
+            "realname": "",
+            "location": "venice beach, ca",
+            "iconserver": "3734",
+            "iconfarm": 4,
+            "path_alias": "eyetwist"
+        },
+        "title": {
+            "_content": "alconquin video. los angeles, ca. 2009."
+        },
+        "description": {
+            "_content": "mamiya 6MF 75mm f/3.5 + kodak portra 160VC. lab: A&amp;I color, hollywood, ca. scan: epson V750. exif tags: lenstagger."
+        },
+        "visibility": {
+            "ispublic": 1,
+            "isfriend": 0,
+            "isfamily": 0
+        },
+        "dates": {
+            "posted": "1563753623",
+            "taken": "2009-05-23 10:00:00",
+            "takengranularity": "0",
+            "takenunknown": "0",
+            "lastupdate": "1563760302"
+        },
+        "views": "213",
+        "editability": {
+            "cancomment": 0,
+            "canaddmeta": 0
+        },
+        "publiceditability": {
+            "cancomment": 1,
+            "canaddmeta": 0
+        },
+        "usage": {
+            "candownload": 0,
+            "canblog": 0,
+            "canprint": 0,
+            "canshare": 1
+        },
+        "comments": {
+            "_content": "4"
+        },
+        "notes": {
+            "note": []
+        },
+        "people": {
+            "haspeople": 0
+        },
+        "tags": {
+            "tag": [
+                {
+                    "id": "1566080-48342263806-33635640",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "eyetwist kevin balluff",
+                    "_content": "eyetwistkevinballuff",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-2663094",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "eyetwist",
+                    "_content": "eyetwist",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-2424",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "los angeles",
+                    "_content": "losangeles",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-15891",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "storefront",
+                    "_content": "storefront",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-479193482",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "alconquin video",
+                    "_content": "alconquinvideo",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-2546",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "video",
+                    "_content": "video",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-2541",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "DVD",
+                    "_content": "dvd",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-2422",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "store",
+                    "_content": "store",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-6306",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "small",
+                    "_content": "small",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-14652",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "tiny",
+                    "_content": "tiny",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-55847",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "DTLA",
+                    "_content": "dtla",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-652",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "6x6",
+                    "_content": "6x6",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-664",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "film",
+                    "_content": "film",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-654",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "Mamiya",
+                    "_content": "mamiya",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-2932216",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "6MF",
+                    "_content": "6mf",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-362133",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "75mm",
+                    "_content": "75mm",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-4689",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "Kodak",
+                    "_content": "kodak",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-43016",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "Portra",
+                    "_content": "portra",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-42987",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "160VC",
+                    "_content": "160vc",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-3366901",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "Mamiya 6MF",
+                    "_content": "mamiya6mf",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-33970060",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "Mamiya 75mm f/3.5L",
+                    "_content": "mamiya75mmf35l",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-54901",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "Kodak Portra 160VC",
+                    "_content": "kodakportra160vc",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-10006",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "ishootfilm",
+                    "_content": "ishootfilm",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-8320616",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "ishootkodak",
+                    "_content": "ishootkodak",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-1273",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "analog",
+                    "_content": "analog",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-24618",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "analogue",
+                    "_content": "analogue",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-204483",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "emulsion",
+                    "_content": "emulsion",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-28695",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "mamiya6",
+                    "_content": "mamiya6",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-1628",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "square",
+                    "_content": "square",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-1412",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "medium format",
+                    "_content": "mediumformat",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-649",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "120",
+                    "_content": "120",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-731057",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "primes",
+                    "_content": "primes",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-29778508",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "film+EXIF",
+                    "_content": "filmexif",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-15706868",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "A&I color",
+                    "_content": "aicolor",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-13342745",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "epson V750 pro",
+                    "_content": "epsonv750pro",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-2460941",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "lenstagger",
+                    "_content": "lenstagger",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-1169686",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "angeleno",
+                    "_content": "angeleno",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-2593",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "los",
+                    "_content": "los",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-4560",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "angeles",
+                    "_content": "angeles",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-2145",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "LA",
+                    "_content": "la",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-12950",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "socal",
+                    "_content": "socal",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-50",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "california",
+                    "_content": "california",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-12040",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "sidewalk",
+                    "_content": "sidewalk",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-3318",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "downtown",
+                    "_content": "downtown",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-553",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "building",
+                    "_content": "building",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-48735",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "streetscape",
+                    "_content": "streetscape",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-291",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "urban",
+                    "_content": "urban",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-6212655",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "alconquin",
+                    "_content": "alconquin",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-19695",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "mariachi",
+                    "_content": "mariachi",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-895902",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "boyle heights",
+                    "_content": "boyleheights",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-21767",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "cesar chavez",
+                    "_content": "cesarchavez",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-10447",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "gone",
+                    "_content": "gone",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-89477",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "VHS",
+                    "_content": "vhs",
+                    "machine_tag": false
+                },
+                {
+                    "id": "1566080-48342263806-12647",
+                    "author": "49191827@N00",
+                    "authorname": "eyetwist",
+                    "raw": "tape",
+                    "_content": "tape",
+                    "machine_tag": false
+                }
+            ]
+        },
+        "location": {
+            "latitude": "34.051574",
+            "longitude": "-118.218308",
+            "accuracy": "16",
+            "context": "0",
+            "locality": {
+                "_content": "Brooklyn Heights"
+            },
+            "county": {
+                "_content": "Los Angeles"
+            },
+            "region": {
+                "_content": "California"
+            },
+            "country": {
+                "_content": "United States"
+            },
+            "neighbourhood": {
+                "_content": ""
+            }
+        },
+        "geoperms": {
+            "ispublic": 1,
+            "iscontact": 0,
+            "isfriend": 0,
+            "isfamily": 0
+        },
+        "urls": {
+            "url": [
+                {
+                    "type": "photopage",
+                    "_content": "https://www.flickr.com/photos/eyetwist/48342263806/"
+                }
+            ]
+        },
+        "media": "photo"
+    },
+    "stat": "ok"
+}
